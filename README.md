@@ -18,4 +18,4 @@ With GroupDocs Viewer for .NET plugin for ezPublish you can easily view on [anno
 * [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/viewer)
 * [See source code for GroupDocs Viewer for .NET plugin for ez Publish CMS](https://github.com/groupdocs/ezpublish-groupdocs-viewer-dotnet-source)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/plugins).
