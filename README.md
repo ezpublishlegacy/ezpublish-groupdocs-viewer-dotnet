@@ -3,7 +3,7 @@
 
 GroupDocs Viewer for .NET plugin for ezPublish
 
-With GroupDocs Viewer for .NET plugin for ezPublish you can easily view on [annotate on PDF's](http://groupdocs.com/apps/Viewer), Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your ezPublish website.
+With GroupDocs Viewer for .NET plugin for ezPublish you can easily view on [annotate on PDF's](http://groupdocs.com/apps/viewer), Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your ezPublish website.
 
 ###Plugin Manual Installation Instructions:
 1. "groupdocsViewerNet" module contain "design, modules, setting", so unzip it into "extentions" directory, so parent directory is "groupdocsViewer"
@@ -15,7 +15,7 @@ With GroupDocs Viewer for .NET plugin for ezPublish you can easily view on [anno
 
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/Viewer)
+* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/viewer)
 * [See source code for GroupDocs Viewer for .NET plugin for ez Publish CMS](https://github.com/groupdocs/ezpublish-groupdocs-viewer-dotnet-source)
 
 ###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
